@@ -1,0 +1,16 @@
+.img_anime{
+    width: 250px;
+    height: 300px;
+}
+ footer a{
+     border: 6px blue solid;
+     padding: 7px;
+     margin: 6px;
+     border-radius: 15px;
+     text-decoration: none;
+     background-color: rgb(147, 243, 203);
+     color: rgb(68, 10, 10);
+ }
+ article{
+     display: flex;
+ }
